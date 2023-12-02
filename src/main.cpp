@@ -7,7 +7,7 @@ int main() {
     int opcao;
 
     do {
-        std::cout << "\n===== Locadora de Filmes =====\n";
+        std::cout << "\n===== RetroNetflix =====\n";
         std::cout << "1. Cadastrar Filme\n";
         std::cout << "2. Cadastrar Cliente\n";
         std::cout << "3. Visualizar Filmes Disponíveis\n";
